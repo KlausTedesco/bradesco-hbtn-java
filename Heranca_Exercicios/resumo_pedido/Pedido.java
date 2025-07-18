@@ -1,5 +1,3 @@
-import java.text.DecimalFormat;
-
 public class Pedido {
 
 	private double percentualDesconto;
@@ -66,8 +64,10 @@ public class Pedido {
 	}
 
 	private String formatarDuasCasasDecimais(double variavel) {
-		DecimalFormat dfa = new DecimalFormat("0.00");
-		return dfa.format(variavel);
+//        BigDecimal bd = new BigDecimal(variavel).setScale(2, RoundingMode.HALF_UP);
+//        DecimalFormat dfa = new DecimalFormat("0.00");
+//        return dfa.format(bd.doubleValue());
+		return String.format("%.2f", variavel); 
 	}
 
 	public double getPercentualDesconto() {
