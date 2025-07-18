@@ -1,3 +1,4 @@
+import java.text.DecimalFormat;
 
 public class Retangulo extends FormaGeometrica{
 
@@ -35,7 +36,11 @@ public class Retangulo extends FormaGeometrica{
 
 	@Override
 	public String toString() {
-		return "[Retangulo] "+ largura + " / " + altura;
+        DecimalFormat dfl = new DecimalFormat("#.00");
+        String larguraFormatada = dfl.format(largura);
+        DecimalFormat dfa = new DecimalFormat("#.00");
+        String alturaFormatada = dfa.format(altura);
+		return "[Retangulo] "+ larguraFormatada + " / " + alturaFormatada;
 	}
 
 	
