@@ -1,6 +1,6 @@
 
 abstract class FormaGeometrica {
 	
-	abstract double area();
+	public abstract double area();
 
 }
