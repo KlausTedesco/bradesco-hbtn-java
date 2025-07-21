@@ -5,7 +5,7 @@ public class ProcessadorVideo {
 	
 	void registrarCanal(CanalNotificacao canal){
 		//Add canal a lista de canais
-		canais.addLast(canal);
+		canais.add(canal);
 	}
 	
 	void processar(Video video) {
