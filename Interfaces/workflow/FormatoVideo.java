@@ -1,4 +1,3 @@
-
-public enum FormatoVideo {
-	MPEG, AVI, WMV, MP4, MKV;
-}
+/*public enum FormatoVideo { 
+	MPEG, AVI, WMV, MP4, MKV; }
+ */

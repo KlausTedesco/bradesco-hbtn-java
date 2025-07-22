@@ -1,4 +1,3 @@
-
-public interface CanalNotificacao {
-	void notificar(Mensagem mensagem);
-}
+/*
+ * public interface CanalNotificacao { void notificar(Mensagem mensagem); }
+ */

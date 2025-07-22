@@ -1,4 +1,3 @@
-
-public enum TipoMensagem {
-	AVISO, ERRO, LOG;	
-}
+/*
+ * public enum TipoMensagem { AVISO, ERRO, LOG; }
+ */
