@@ -1,4 +1,4 @@
-package atividades;
+/*package atividades;
 
 public class ModificarStatusVideo implements Atividade{
 
@@ -9,3 +9,4 @@ public class ModificarStatusVideo implements Atividade{
 	}
 
 }
+*/

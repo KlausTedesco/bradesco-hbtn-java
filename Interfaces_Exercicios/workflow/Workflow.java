@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/*import java.util.ArrayList;
 
 import atividades.Atividade;
 
@@ -10,3 +10,4 @@ public class Workflow {
 		listaAtividades.add(atividade);
 	}
 }
+*/

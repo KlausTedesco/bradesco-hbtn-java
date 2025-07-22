@@ -1,4 +1,4 @@
-import atividades.Atividade;
+/*import atividades.Atividade;
 
 public class MaquinaWorkflow {
 	
@@ -9,3 +9,4 @@ public class MaquinaWorkflow {
 	}
 
 }
+*/

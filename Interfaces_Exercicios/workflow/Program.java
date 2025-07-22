@@ -1,4 +1,4 @@
-import atividades.*;
+/*import atividades.*;
 
 public class Program {
 
@@ -34,3 +34,4 @@ public class Program {
     }
 
 }
+*/
