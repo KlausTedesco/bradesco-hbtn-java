@@ -1,4 +1,4 @@
-import provedores.ProvedorFrete;
+/*import provedores.ProvedorFrete;
 
 public class ProcessadorPedido {
 	
@@ -13,3 +13,4 @@ public class ProcessadorPedido {
 		pedido.frete = provedorFrete.calcularFrete(pedido.peso, pedido.total);
 	}
 }
+*/

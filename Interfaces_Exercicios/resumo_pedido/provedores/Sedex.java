@@ -1,4 +1,4 @@
-package provedores;
+/*package provedores;
 
 public class Sedex implements ProvedorFrete{
 
@@ -25,3 +25,4 @@ public class Sedex implements ProvedorFrete{
 	}
 
 }
+*/

@@ -1,4 +1,4 @@
-import provedores.Frete;
+/*import provedores.Frete;
 
 public class Pedido {
 
@@ -19,3 +19,4 @@ public class Pedido {
 	}
 	
 }
+*/

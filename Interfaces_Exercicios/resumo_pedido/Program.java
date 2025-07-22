@@ -1,4 +1,4 @@
-import java.util.Locale;
+/*import java.util.Locale;
 
 import provedores.JadLog;
 import provedores.Loggi;
@@ -63,3 +63,4 @@ public class Program {
     }
 
 }
+*/

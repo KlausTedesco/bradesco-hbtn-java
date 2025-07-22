@@ -1,4 +1,4 @@
-package provedores;
+/*package provedores;
 
 public class Frete {
 	
@@ -20,3 +20,4 @@ public class Frete {
 	}
 	
 }
+*/

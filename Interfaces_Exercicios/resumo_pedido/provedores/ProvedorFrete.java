@@ -1,4 +1,4 @@
-package provedores;
+/*package provedores;
 
 public interface ProvedorFrete {
 	
@@ -7,3 +7,4 @@ public interface ProvedorFrete {
 	public TipoProvedorFrete obterTipoProvedorFrete();
 	
 }
+*/

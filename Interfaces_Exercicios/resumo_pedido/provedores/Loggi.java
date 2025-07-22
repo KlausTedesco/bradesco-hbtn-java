@@ -1,4 +1,4 @@
-package provedores;
+/*package provedores;
 
 public class Loggi implements ProvedorFrete{
 
@@ -25,3 +25,4 @@ public class Loggi implements ProvedorFrete{
 	}
 	
 }
+*/
