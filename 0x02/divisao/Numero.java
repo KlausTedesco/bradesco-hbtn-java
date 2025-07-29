@@ -1,4 +1,4 @@
-
+/*
 public class Numero {
 
 	public static void dividir(int a, int b) {
@@ -13,3 +13,4 @@ public class Numero {
 	}
 	
 }
+*/
