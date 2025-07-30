@@ -1,4 +1,4 @@
-import exceptions.AutorInvalidoException;
+/*import exceptions.AutorInvalidoException;
 import exceptions.LivroInvalidoException;
 
 public class Livro {
@@ -55,3 +55,4 @@ public class Livro {
 	}
 
 }
+*/

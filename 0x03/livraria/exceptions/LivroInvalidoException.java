@@ -1,4 +1,4 @@
-package exceptions;
+/*package exceptions;
 
 public class LivroInvalidoException extends Exception{
 
@@ -9,3 +9,4 @@ public class LivroInvalidoException extends Exception{
 	}
 
 }
+*/
