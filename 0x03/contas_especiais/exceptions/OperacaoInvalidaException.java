@@ -1,4 +1,4 @@
-package exceptions;
+/*package exceptions;
 
 public class OperacaoInvalidaException extends Exception{
 
@@ -10,3 +10,4 @@ public class OperacaoInvalidaException extends Exception{
 
 	
 }
+*/

@@ -1,4 +1,4 @@
-import exceptions.OperacaoInvalidaException;
+/*import exceptions.OperacaoInvalidaException;
 
 public class ContaBancariaBasica {
 	
@@ -74,3 +74,4 @@ public class ContaBancariaBasica {
 	}
 
 }
+*/
