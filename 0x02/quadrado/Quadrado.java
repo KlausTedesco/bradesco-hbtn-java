@@ -1,4 +1,4 @@
-public class Quadrado {
+/*public class Quadrado {
 
 	public static double area(double lado) {
 		if ( lado < 0 ) {
@@ -8,3 +8,4 @@ public class Quadrado {
 		return lado * lado;
 	}
 }
+ */
