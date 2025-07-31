@@ -8,8 +8,7 @@ public class FileReadingExercise {
     public static void main(String[] args) {
         String fileName = "exemplo.txt"; // Nome do arquivo fixo para leitura
 
-//        try (BufferedReader reader = new BufferedReader(new FileReader("arquivos/1/"+fileName))){     para rodar localmente
-        try (BufferedReader reader = new BufferedReader(new FileReader("bradesco-hbtn-java/arquivos/1/"+fileName))){
+        try (BufferedReader reader = new BufferedReader(new FileReader("arquivos/1/"+fileName))){
 
         	String line = reader.readLine();
         	
