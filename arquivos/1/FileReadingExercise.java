@@ -9,14 +9,15 @@ public class FileReadingExercise {
         String fileName = "exemplo.txt"; // Nome do arquivo fixo para leitura
 
         try (BufferedReader reader = new BufferedReader(new FileReader("arquivos/1/"+fileName))){
-
+            
+            System.out.println("Conteúdo do arquivo '" + fileName + "':\n");
         	String line = reader.readLine();
         	
         	while(line != null) {
         		System.out.println(line);
         		line = reader.readLine();
         	}
-			System.out.println("Leitura do arquivo concluída.");
+			System.out.println("\nLeitura do arquivo concluída.");
         
         } catch (FileNotFoundException e) {
             System.err.println("Erro: Arquivo não encontrado: " + e.getMessage());
