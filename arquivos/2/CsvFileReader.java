@@ -19,7 +19,7 @@ public class CsvFileReader {
                 System.out.println("------------------------");
         		line = reader.readLine();
         	}
-			System.out.println("Leitura do arquivo concluída.\n");
+			System.out.println("Leitura do arquivo concluída.");
         
         } catch (FileNotFoundException e) {
             System.err.println("Erro: Arquivo não encontrado: " + e.getMessage());
