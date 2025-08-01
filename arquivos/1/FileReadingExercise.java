@@ -8,7 +8,7 @@ public class FileReadingExercise {
     public static void main(String[] args) {
         String fileName = "exemplo.txt"; // Nome do arquivo fixo para leitura
 
-        try (BufferedReader reader = new BufferedReader(new FileReader("arquivos/1/"+fileName))){
+        try (BufferedReader reader = new BufferedReader(new FileReader(fileName))){
             
             System.out.println("Conteúdo do arquivo '" + fileName + "':\n");
         	String line = reader.readLine();
