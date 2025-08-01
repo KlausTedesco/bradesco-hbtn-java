@@ -11,7 +11,7 @@ public class CsvFileReader {
         	String line = reader.readLine();
                     	
         	while(line != null) {
-                String[] list = line.split(",");
+                String[] list = line.trim().split(",");
                 System.out.println("Funcionário: "+list[0]+"\n");
                 System.out.println("Idade: "+list[1]+"\n");
                 System.out.println("Departamento: "+list[2]+"\n");
