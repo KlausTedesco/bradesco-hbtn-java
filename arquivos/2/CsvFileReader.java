@@ -1,0 +1,38 @@
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class CsvFileReader {
+        public static void main(String[] args) {
+        String fileName = "funcionarios.csv"; 
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(fileName))){
+        	String line = reader.readLine();
+                    	
+        	while(line != null) {
+                String[] list = line.split(",");
+                System.out.println("Funcionário: "+list[0]+"\n");
+                System.out.println("Idade: "+list[1]+"\n");
+                System.out.println("Departamento: "+list[2]+"\n");
+                System.out.println("Salarial: "+list[3]+"\n");
+                System.out.println("------------------------\n");
+        		line = reader.readLine();
+        	}
+			System.out.println("Leitura do arquivo concluída.\n");
+        
+        } catch (FileNotFoundException e) {
+            System.err.println("Erro: Arquivo não encontrado: " + e.getMessage());
+            
+        } catch (IOException e) {
+            System.err.println("Erro ao ler o arquivo: " + e.getMessage());
+        
+        } catch (SecurityException e) {
+            System.err.println("Erro de segurança: " + e.getMessage());       
+
+        } catch (Exception e) {
+			System.err.println("Houve algo de errado com a leitura do arquivo!");
+		
+        } 
+    }
+}
