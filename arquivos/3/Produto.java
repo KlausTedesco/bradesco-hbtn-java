@@ -1,4 +1,4 @@
-
+/*
 public class Produto {
 	private int id;
 	private String nome;
@@ -56,4 +56,4 @@ public class Produto {
 	public String toCsv() {
 		return id + "," + nome + "," + quantidade + "," + preco;
 	}
-}
+}*/

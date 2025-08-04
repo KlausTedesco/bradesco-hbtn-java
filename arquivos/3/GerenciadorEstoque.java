@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class GerenciadorEstoque {
 	  public static void main(String[] args) {
@@ -54,3 +54,4 @@ public class GerenciadorEstoque {
 	        }
 	    }
 }
+*/
