@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 
 public class ArrayExercicio {
@@ -43,4 +43,4 @@ public class ArrayExercicio {
         // Fechando o scanner
         scanner.close();
     }
-}
+}*/
