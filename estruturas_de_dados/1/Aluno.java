@@ -1,4 +1,4 @@
-
+/*
 public class Aluno {
 	
 	private String nome;
@@ -22,3 +22,4 @@ public class Aluno {
 	}
 	
 }
+*/

@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/*import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
@@ -60,7 +60,7 @@ public class GestaoAlunos {
 		return aluno;
 	}
 	
-/*    private String gerarNomeAluno() {
+    private String gerarNomeAluno() {
         List<String> nomes = Arrays.asList("Ana", "João", "Carlos", "Maria", "José");
         List<String> sobrenomes = Arrays.asList("Silva", "Oliveira", "Pereira", "Nunes", "Souza");
 
@@ -78,5 +78,5 @@ public class GestaoAlunos {
         int idadeMaxima = 30;
         
         return random.nextInt(idadeMaxima - idadeMinima + 1) + idadeMinima;    
-     } */
-}
+     } 
+}*/
