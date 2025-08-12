@@ -18,6 +18,12 @@ public class GerenciamentoDeContatos {
 			System.out.println("Erro: Contato com nome "+ nome +" já existe!");
 			return;
 		}
+		if(this.contatos.values().stream().anyMatch(
+				contatos -> contatos.getEmails().contains(email))) {
+			System.out.println("Erro: Email "+ email +" já existe para outro contato!");
+			return;
+		}
+		
     	Contato contato = new Contato();
     	contato.adicionarTelefone(telefone);
     	contato.adicionarEmail(email);
@@ -29,7 +35,7 @@ public class GerenciamentoDeContatos {
 	// Exibe todos os contatos
     public void exibirContatos() {
     	this.contatos.forEach((nome, contato) -> {
-    		System.out.println("Nome: "+nome);
+    		System.out.println("Nome: "+ nome);
     		contato.exibirContato();
     		System.out.println("-------------------------------");
     	});
@@ -38,23 +44,25 @@ public class GerenciamentoDeContatos {
 
     // Busca um contato pelo nome
     public void buscarContato(String nome) {
-        if(this.contatos.containsKey(nome)) {
-        	System.out.println("Contato encontrado: "+ nome);
-        	this.contatos.get(nome).exibirContato();
+        if(!this.contatos.containsKey(nome)) {
+        	System.out.println("Contato "+ nome +" não encontrado.");        	
         	return;
         }
-        System.out.println("Contato "+ nome +" não encontrado.");
+        
+        System.out.println("Contato encontrado: "+ nome);
+    	this.contatos.get(nome).exibirContato();
     }
 
 
     // Remove um contato pelo nome
     public void removerContato(String nome) {
-        if(this.contatos.containsKey(nome)) {
-        	this.contatos.remove(nome);
-        	System.out.println("Contato "+ nome +" removido com sucesso!");
+        if(!this.contatos.containsKey(nome)) {
+        	System.out.println("Contato "+ nome +" não encontrado.");
         	return;
         }
-        System.out.println("Contato "+ nome +" não encontrado.");
+        
+    	this.contatos.remove(nome);
+    	System.out.println("Contato "+ nome +" removido com sucesso!");
     }
 
 
