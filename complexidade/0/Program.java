@@ -1,4 +1,4 @@
-public class Program {
+/*public class Program {
 
     public static void main(String[] args) {
         PessoasArray p = new PessoasArray();
@@ -8,3 +8,4 @@ public class Program {
     }
 
 }
+*/
