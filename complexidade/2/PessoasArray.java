@@ -1,4 +1,4 @@
-public class PessoasArray {
+/*public class PessoasArray {
 
 	private String[] nomes;
 
@@ -43,3 +43,4 @@ public class PessoasArray {
 		}
 	}
 }
+*/
