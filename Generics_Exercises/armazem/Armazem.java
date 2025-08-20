@@ -1,4 +1,4 @@
-import java.util.HashMap;
+/*import java.util.HashMap;
 import java.util.Map;
 
 public class Armazem<T> implements Armazenavel<T>{
@@ -20,3 +20,4 @@ public class Armazem<T> implements Armazenavel<T>{
 	}
 
 }
+*/

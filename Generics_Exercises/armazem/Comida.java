@@ -1,4 +1,4 @@
-import java.text.DecimalFormat;
+/*import java.text.DecimalFormat;
 
 public class Comida {
 		
@@ -22,3 +22,4 @@ public class Comida {
 	}
 	
 }
+*/
