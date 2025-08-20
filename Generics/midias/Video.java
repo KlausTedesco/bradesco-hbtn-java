@@ -4,7 +4,7 @@ public class Video extends Midia{
 	private int duracao;
 
 	public Video(String nome, int duracao) {
-		super(nome);
+		super.nome = nome;
 		this.duracao = duracao;
 	}
 
