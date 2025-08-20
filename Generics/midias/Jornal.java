@@ -1,4 +1,4 @@
-
+/*
 public class Jornal extends Midia{
 
 	private int quantidadeArtigos;
@@ -13,3 +13,4 @@ public class Jornal extends Midia{
 	}
 
 }
+*/

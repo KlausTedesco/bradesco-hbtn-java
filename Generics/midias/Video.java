@@ -1,4 +1,4 @@
-
+/*
 public class Video extends Midia{
 
 	private int duracao;
@@ -13,3 +13,4 @@ public class Video extends Midia{
 	}
 	
 }
+*/

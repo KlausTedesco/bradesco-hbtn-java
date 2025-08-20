@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/*import java.util.ArrayList;
 import java.util.List;
 
 public class Biblioteca<T> extends Midia{
@@ -17,3 +17,4 @@ public class Biblioteca<T> extends Midia{
 		return this.lista.toString();
 	}
 }
+*/

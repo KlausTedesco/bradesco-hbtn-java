@@ -1,4 +1,4 @@
-
+/*
 public class Midia {
 	
 	protected String nome;
@@ -13,3 +13,4 @@ public class Midia {
 	}
 	
 }
+*/
