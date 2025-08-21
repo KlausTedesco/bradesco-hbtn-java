@@ -1,4 +1,4 @@
-public class Program {
+/*public class Program {
 	public static void main(String[] args) {
 		Pedido pedido = new Pedido();
 
@@ -33,4 +33,4 @@ public class Program {
 
 		System.out.println(String.format("Total: %d", pedido.obterTotalCaixas()));
 	}
-}
+}*/

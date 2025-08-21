@@ -1,4 +1,4 @@
-public class PedidoCookie {
+/*public class PedidoCookie {
 
 	private String sabor;
 	private int quantidadeCaixas;
@@ -25,3 +25,4 @@ public class PedidoCookie {
 	}
 
 }
+*/
