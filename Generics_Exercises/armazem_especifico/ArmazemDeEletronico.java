@@ -1,4 +1,4 @@
-
+/*
 public class ArmazemDeEletronico<T> extends Armazem<Eletronico>{
 
 	public ArmazemDeEletronico() {
@@ -16,3 +16,4 @@ public class ArmazemDeEletronico<T> extends Armazem<Eletronico>{
 	}
 	
 }
+*/

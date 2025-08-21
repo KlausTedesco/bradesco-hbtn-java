@@ -1,4 +1,4 @@
-import java.text.DecimalFormat;
+/*import java.text.DecimalFormat;
 
 public class Eletronico {
 	
@@ -20,3 +20,4 @@ public class Eletronico {
 	}
 
 }
+*/

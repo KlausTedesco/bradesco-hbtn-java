@@ -1,4 +1,4 @@
-
+/*
 public interface Armazenavel<T> {
 
 	public void adicionarAoInventario(String nome, T valor);
@@ -6,3 +6,4 @@ public interface Armazenavel<T> {
 	public T obterDoInventario(String nome);
 	
 }
+*/

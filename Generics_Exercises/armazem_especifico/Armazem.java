@@ -1,4 +1,4 @@
-import java.util.HashMap;
+/*import java.util.HashMap;
 import java.util.Map;
 
 abstract class Armazem<T> implements Armazenavel<T>{
@@ -20,3 +20,4 @@ abstract class Armazem<T> implements Armazenavel<T>{
 	}
 
 }
+*/
