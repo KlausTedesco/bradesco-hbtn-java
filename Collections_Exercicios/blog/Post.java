@@ -1,4 +1,4 @@
-public class Post {
+/*public class Post {
 
 	private String autor;
 	private String titulo;
@@ -30,3 +30,4 @@ public class Post {
 	}
 	
 }
+*/

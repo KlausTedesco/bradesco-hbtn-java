@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/*import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
@@ -31,10 +31,10 @@ public class Blog {
 	
 	public Map<String, Integer> obterContagemPorCategoria() {
 		List<Post> listaPostagens = this.postagens;
-/*		Map<String, Integer> quantidadePostagensPorCategoria = listaPostagens.stream()
+		Map<String, Integer> quantidadePostagensPorCategoria = listaPostagens.stream()
 	            .sorted((p1, p2) -> p1.getCategoria().compareTo(p2.getCategoria())) // não funcionou para ordenar
 				.collect(Collectors.groupingBy(Post::getCategoria, Collectors.collectingAndThen(
-		                Collectors.counting(), Long::intValue)));*/
+		                Collectors.counting(), Long::intValue)));
 		Map<String, Long> quantidadePostagensPorCategoria = listaPostagens.stream()
 			    .collect(Collectors.groupingBy(Post::getCategoria, Collectors.counting()));
 
@@ -50,4 +50,4 @@ public class Blog {
 		return mapOrdenado;	
 	}
 	
-}
+}*/
