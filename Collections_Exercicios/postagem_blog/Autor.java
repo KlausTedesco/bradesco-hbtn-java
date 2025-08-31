@@ -1,4 +1,4 @@
-public class Autor implements Comparable<Autor>{
+/*public class Autor implements Comparable<Autor>{
 
 	private String nome;
 	private String sobrenome;
@@ -20,3 +20,4 @@ public class Autor implements Comparable<Autor>{
 	}
 	
 }
+*/

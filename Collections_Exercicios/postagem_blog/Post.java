@@ -1,4 +1,4 @@
-public class Post implements Comparable<Post>{
+/*public class Post implements Comparable<Post>{
 
 	private Autor autor;
 	private String titulo;
@@ -39,3 +39,4 @@ public class Post implements Comparable<Post>{
 		return this.titulo.compareTo(post.titulo);
 	}
 }
+*/
