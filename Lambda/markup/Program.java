@@ -1,4 +1,4 @@
-public class Program {
+/*public class Program {
 	public static void main(String[] args) {
 		Produto produto1 = new Produto(129.99, "Mouse Gamer");
 
@@ -12,4 +12,4 @@ public class Program {
 				produto1.getPreco(), 
 				produto1.precoComMarkup.get());
 	}
-}
+}*/
