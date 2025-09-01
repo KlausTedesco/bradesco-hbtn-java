@@ -1,4 +1,4 @@
-import java.util.*;
+/*import java.util.*;
 import java.util.function.*;
 import java.util.Locale;
 
@@ -40,4 +40,4 @@ public class Program {
         System.out.println(produtosCozinha);
         System.out.println(produtosBaixoEstoque);
     }
-}
+}*/

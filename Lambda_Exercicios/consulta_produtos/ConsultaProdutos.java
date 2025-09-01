@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/*import java.util.ArrayList;
 import java.util.List;
 
 public class ConsultaProdutos {
@@ -14,3 +14,4 @@ public class ConsultaProdutos {
 		return produtosFiltrados.isEmpty()? null:produtosFiltrados;
 	}
 }
+*/
