@@ -1,4 +1,4 @@
-public class Program {
+/*public class Program {
 	public static void main(String[] args) {
 		Funcionario funcionario1 = new Funcionario(2360);
 
@@ -10,4 +10,4 @@ public class Program {
 		System.out.printf("%.2f - %.2f\n", funcionario1.getSalario(), salarioLiquidoAcrescimo50);
 		System.out.printf("%.2f - %.2f\n", funcionario1.getSalario(), salarioLiquidoAcrescimo10porcento);
 	}
-}
+}*/

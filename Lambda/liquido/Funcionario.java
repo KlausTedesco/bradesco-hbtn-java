@@ -1,4 +1,4 @@
-public class Funcionario {
+/*public class Funcionario {
 
 	private double salario;
 
@@ -12,3 +12,4 @@ public class Funcionario {
 	}
 	
 }
+*/
