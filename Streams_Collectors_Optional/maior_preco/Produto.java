@@ -1,4 +1,4 @@
-public class Produto {
+/*public class Produto {
 
 	private int codigo;
 	private String nome;
@@ -36,3 +36,4 @@ public class Produto {
 	
 	
 }
+*/
