@@ -1,4 +1,4 @@
-public class Pessoa {
+/*public class Pessoa {
 	
 	private int codigo;
 	private String nome;
@@ -41,3 +41,4 @@ public class Pessoa {
 	}
 	
 }
+*/
