@@ -1,4 +1,4 @@
-import java.util.List;
+/*import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
@@ -20,3 +20,4 @@ public class ConsultaPessoas {
 						Collectors.filtering(p -> p.getIdade()>40, Collectors.toList())));				
 	}
 }
+*/
