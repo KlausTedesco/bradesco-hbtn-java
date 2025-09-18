@@ -1,4 +1,4 @@
-public class Pessoa implements Comparable<Pessoa>{
+/*public class Pessoa implements Comparable<Pessoa>{
 	
 	private int codigo;
 	private String nome;
@@ -46,3 +46,4 @@ public class Pessoa implements Comparable<Pessoa>{
 	}
 	
 }
+*/

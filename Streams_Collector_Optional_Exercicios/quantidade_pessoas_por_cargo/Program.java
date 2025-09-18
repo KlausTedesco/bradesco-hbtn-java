@@ -1,4 +1,4 @@
-import java.util.*;
+/*import java.util.*;
 
 public class Program {
     public static void main(String[] args) {
@@ -30,4 +30,4 @@ public class Program {
         System.out.println();
         System.out.println(pessoas3);
     }
-}
+}*/
