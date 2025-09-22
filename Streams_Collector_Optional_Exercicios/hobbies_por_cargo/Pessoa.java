@@ -1,4 +1,4 @@
-import java.util.List;
+/*import java.util.List;
 
 public class Pessoa implements Comparable<Pessoa>{
 	
@@ -62,3 +62,4 @@ public class Pessoa implements Comparable<Pessoa>{
 	}
 	
 }
+*/
