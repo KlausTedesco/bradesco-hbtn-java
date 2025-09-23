@@ -1,4 +1,4 @@
-public class ProdutorConsumidor {
+/*public class ProdutorConsumidor {
 	
 	public static void main(String[] args) throws InterruptedException {
 		Buffer buffer = new Buffer();
@@ -13,4 +13,4 @@ public class ProdutorConsumidor {
 		consumidor.join();
 	}
 	
-}
+}*/

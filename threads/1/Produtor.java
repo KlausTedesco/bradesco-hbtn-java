@@ -1,4 +1,4 @@
-public class Produtor extends Thread {
+/*public class Produtor extends Thread {
     private Buffer buffer;
 
 
@@ -18,4 +18,4 @@ public class Produtor extends Thread {
             e.printStackTrace();
         }
     }
-}
+}*/

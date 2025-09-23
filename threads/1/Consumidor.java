@@ -1,4 +1,4 @@
-public class Consumidor extends Thread {
+/*public class Consumidor extends Thread {
     private Buffer buffer;
 
 
@@ -18,4 +18,4 @@ public class Consumidor extends Thread {
             e.printStackTrace();
         }
     }
-}
+}*/
