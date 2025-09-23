@@ -1,4 +1,4 @@
-public class Principal {
+/*public class Principal {
 
 	public static void main(String[] args) throws InterruptedException {
 		Contador contador = new Contador();
@@ -14,3 +14,4 @@ public class Principal {
 	}
 	
 }
+*/

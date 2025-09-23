@@ -1,4 +1,4 @@
-class ThreadContador extends Thread {
+/*class ThreadContador extends Thread {
     private Contador contador;
 
 
@@ -14,4 +14,4 @@ class ThreadContador extends Thread {
             contador.incrementar();
         }
     }
-}
+}*/

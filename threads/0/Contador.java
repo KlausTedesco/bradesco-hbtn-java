@@ -1,4 +1,4 @@
-public class Contador {
+/*public class Contador {
     private int count = 0;
 
 
@@ -12,4 +12,4 @@ public class Contador {
     public int getContagem() {
         return count;
     }
-}
+}*/
